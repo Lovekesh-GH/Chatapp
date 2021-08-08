@@ -5,7 +5,6 @@
 
 <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 1.1em;">Chat rooms allow users from any location to join in, </span>making them an ideal solution for conferences between multiple people.Technologies chat application facilitates real-time communication, with its superior feature set and unprecedented reliability.
  The real time interaction doesn't require users to sit close to a conference system speaker, making it more comfortable    
-<br>
 
 ## 🔭 &nbsp; <span style="color: #f2cf4a; font-family: Babas; font-size: 1.4em;">About this Project
 </span>
